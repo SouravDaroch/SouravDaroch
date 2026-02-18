@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sourav Daroch! 👋
+**Frontend Developer | React.js Specialist | 2025 Graduate**
 
-<!--
-**SouravDaroch/SouravDaroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable, user-centric web applications with a focus on clean code and responsive design.
+I'm Currently learning TypeScript and Next.js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Currently mastering: Advanced React patterns & Node.js
+- 📫 Reach me at: [Your Email]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sourav-daroch-27a1b5398/)
+  
+### Tech Stack
+**Frontend:** React.js, Redux Toolkit, Tailwind CSS, JavaScript (ES6+)
+**Tools:** Git, GitHub, VS Code, Vercel
