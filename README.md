@@ -4,7 +4,7 @@
 I build scalable, user-centric web applications with a focus on clean code and responsive design.
 I'm Currently learning TypeScript and Next.js
 
-- 🛠️ Currently mastering: Advanced React patterns & Node.js
+- 🛠️ Currently mastering: Advanced React patterns, TypeScript And Next.js
 - 📫 Reach me at: souravdaroch984@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sourav-daroch-27a1b5398/)
   
