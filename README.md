@@ -54,7 +54,9 @@
   </tr>
 </table>
 
+
 ---
+
 
 ### 🤖 Modern Workflow
 I utilize an **AI-augmented development stack** to maximize velocity and code quality:
@@ -62,7 +64,9 @@ I utilize an **AI-augmented development stack** to maximize velocity and code qu
 * **Pair Programming:** GitHub Copilot for boilerplate reduction.
 * **Architectural Context:** Gemini for deep-dive logic.
 
+
 ---
+
 
 ### 🎯 Key Strengths
 * **System Design:** Designing modular, type-safe architectures from scratch.
