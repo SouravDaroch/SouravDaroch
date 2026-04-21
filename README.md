@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About me
 
 | Category &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Technologies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- |
@@ -25,14 +25,14 @@
       <h4>ProScribe (Full-Stack CMS)</h4>
       <p>A modern block-based editor with drag-and-drop, RBAC, and monorepo architecture.</p>
       <a href="https://proscribe-dusky.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/View%20Live%20Project-2563EB?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>KODA (SaaS Dashboard)</h4>
       <p>Project management platform featuring Clerk Auth, Prisma, and real-time analytics.</p>
       <a href="https://koda-dashboard-nine.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/View%20Live%20Project-2563EB?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" />
       </a>
     </td>
   </tr>
@@ -41,14 +41,14 @@
       <h4>Swift Stay (Marketplace)</h4>
       <p>Real estate marketplace with high-performance filtering and Airbnb-inspired UI.</p>
       <a href="https://swift-stay-sepia.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/View%20Live%20Project-2563EB?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Portfolio v1</h4>
       <p>A clean, responsive showcase of modern web animations and dark-mode design.</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/View%20Live%20Project-2563EB?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" />
       </a>
     </td>
   </tr>
