@@ -54,11 +54,13 @@
   </tr>
 </table>
 
+---
+
 ### 🤖 Modern Workflow
 I utilize an **AI-augmented development stack** to maximize velocity and code quality:
-* **Agentic IDEs:** Windsurf & Antigravity for context-aware coding.
+* **Agentic IDEs:** Windsurf & Antigravity.
 * **Pair Programming:** GitHub Copilot for boilerplate reduction.
-* **Architectural Context:** Gemini for deep-dive logic and system design.
+* **Architectural Context:** Gemini for deep-dive logic.
 
 ---
 
