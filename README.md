@@ -6,13 +6,14 @@
 
 ### 🚀 Technical Arsenal
 
-| Category | Technologies |
+| Category &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Technologies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- |
 | **Frontend** | Next.js (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, JWT (Auth), Zod (Validation), bcryptjs |
+| **Backend** | Node.js, Express, Zod (Validation), bcryptjs, REST APIs |
+| **Authentication** | **Clerk Auth**, **JWT (HTTP-only Cookies)**, Role-Based Access Control (RBAC) |
 | **Database** | PostgreSQL (Prisma), MongoDB (Mongoose), Neon DB |
-| **State/UI** | Zustand, Redux Toolkit, React Hook Form, @dnd-kit (Drag-and-Drop) |
-| **DevOps** | Vercel, Render, Git/GitHub, Postman |
+| **State & UI Logic** | Zustand, Redux Toolkit, React Hook Form, @dnd-kit (Drag-and-Drop) |
+| **DevOps & Tools** | Vercel, Render, Git/GitHub, Postman, Linux Environment |
 
 ---
 
@@ -20,12 +21,12 @@
 
 #### **ProScribe (Full-Stack CMS)**
 * **Core:** Developed a **block-based editor** with drag-and-drop functionality using `@dnd-kit`.
-* **Security:** Implemented **Role-Based Access Control (RBAC)** and stateless JWT cookie authentication.
+* **Security:** Implemented **Role-Based Access Control (RBAC)** and stateless **JWT cookie authentication**.
 * **Architecture:** Managed a monorepo structure with shared TypeScript schemas for type-safe API communication.
 
 #### **KODA (SaaS Project Dashboard)**
 * **Full-Stack:** Built with Next.js and Prisma (PostgreSQL) for high-speed project tracking.
-* **User Management:** Integrated **Clerk** for enterprise-grade authentication and user sessions.
+* **User Management:** Integrated **Clerk** for enterprise-grade authentication and secure user sessions.
 * **Insights:** Designed dynamic analytics dashboards using Recharts to visualize project progress.
 
 #### **Swift Stay (Marketplace)**
