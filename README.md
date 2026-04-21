@@ -12,6 +12,7 @@
 | **Backend** | Node.js, Express, Zod (Validation), bcryptjs, REST APIs |
 | **Authentication** | **Clerk Auth**, **JWT (HTTP-only Cookies)**, Role-Based Access Control (RBAC) |
 | **Database** | PostgreSQL (Prisma), MongoDB (Mongoose), Neon DB |
+| **AI-Augmented Workflow** | Windsurf, Antigravity (Agentic IDEs), GitHub Copilot, Gemini |
 | **State & UI Logic** | Zustand, Redux Toolkit, React Hook Form, @dnd-kit (Drag-and-Drop) |
 | **DevOps & Tools** | Vercel, Render, Git/GitHub, Postman, Linux Environment |
 
