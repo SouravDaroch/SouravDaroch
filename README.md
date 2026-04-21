@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Technical Arsenal
+### 🚀 About Me
 
 | Category &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Technologies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- |
@@ -19,18 +19,40 @@
 
 ### 🏗️ Featured Projects
 
-#### **ProScribe (Full-Stack CMS)**
-* **Core:** Developed a **block-based editor** with drag-and-drop functionality using `@dnd-kit`.
-* **Security:** Implemented **Role-Based Access Control (RBAC)** and stateless **JWT cookie authentication**.
-* **Architecture:** Managed a monorepo structure with shared TypeScript schemas for type-safe API communication.
-
-#### **KODA (SaaS Project Dashboard)**
-* **Full-Stack:** Built with Next.js and Prisma (PostgreSQL) for high-speed project tracking.
-* **User Management:** Integrated **Clerk** for enterprise-grade authentication and secure user sessions.
-* **Insights:** Designed dynamic analytics dashboards using Recharts to visualize project progress.
-
-#### **Swift Stay (Marketplace)**
-* **Interface:** Created a high-performance, mobile-responsive real estate UI with advanced property filtering.
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>ProScribe (Full-Stack CMS)</h4>
+      <p>A modern block-based editor with drag-and-drop, RBAC, and monorepo architecture.</p>
+      <a href="https://proscribe-dusky.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>KODA (SaaS Dashboard)</h4>
+      <p>Project management platform featuring Clerk Auth, Prisma, and real-time analytics.</p>
+      <a href="https://koda-dashboard-nine.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Swift Stay (Marketplace)</h4>
+      <p>Real estate marketplace with high-performance filtering and Airbnb-inspired UI.</p>
+      <a href="https://swift-stay-sepia.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Portfolio v1</h4>
+      <p>A clean, responsive showcase of modern web animations and dark-mode design.</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
